@@ -10,7 +10,7 @@ Add package to `composer.json` file.
 
 ```
 "require": {
-    "jungleteam/domainr": "1.*"
+    "jungleteam/domainr": "~1.0"
 }
 ```
 
