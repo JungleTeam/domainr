@@ -2,6 +2,8 @@
 
 Domainr API Laravel Wrapper Package.
 
+Supported API Version: **2**
+
 ## Installation
 
 Add package to `composer.json` file.
