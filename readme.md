@@ -40,6 +40,8 @@ Add domainr facade to `config/app.php` file.
 
 ## Usage
 
+For detailed documentation please visit [Domainr API in Mashape](https://market.mashape.com/domainr/domainr) or [Domainr API in Domainr.build](http://domainr.build/docs)
+
 ### Search
 
 ```
